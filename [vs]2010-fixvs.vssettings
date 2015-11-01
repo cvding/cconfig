@@ -1,0 +1,50 @@
+<UserSettings>
+	<ApplicationIdentity version="10.0"/>
+	<ToolsOptions>
+		<ToolsOptionsCategory name="Environment" RegisteredName="Environment"/>
+	</ToolsOptions>
+	<Category name="Database Tools" RegisteredName="Database Tools"/>
+	<Category name="Environment_Group" RegisteredName="Environment_Group">
+		<Category name="Environment_FontsAndColors" Category="{1EDA5DD4-927A-43a7-810E-7FD247D0DA1D}" Package="{DA9FB551-C724-11d0-AE1F-00A0C90FFFC3}" RegisteredName="Environment_FontsAndColors" PackageName="Visual Studio Environment Package">
+			<PropertyValue name="Version">2</PropertyValue>
+			<FontsAndColors Version="2.0">
+				<Categories>
+					<Category GUID="{A27B4E24-A735-4D1D-B8E7-9716E1E3D8E0}" FontName="Monaco" FontSize="10" CharSet="0" FontIsDefault="No">
+						<Items>
+							<Item Name="Plain Text" Foreground="0x00C0C0C0" Background="0x00303030" BoldFont="No"/>
+							<Item Name="Inactive Selected Text" Foreground="0x02000000" Background="0x00303030" BoldFont="No"/>
+							<Item Name="VA Brace Matching" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="VA Class" Foreground="0x00FF901E" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Column Indicator" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Current Line" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Find Reference" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Find Reference (Modified)" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Find Result" Foreground="0x00008080" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Method" Foreground="0x000080FF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Smart Select Preview" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="VA Variable" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Keyword" Foreground="0x00C08000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="关键字" Foreground="0x00C08000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="outlining.collapsehintadornment" Foreground="0x00E8DDD7" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Brace Matching (Highlight)" Foreground="0x00FFFF00" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="String" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="字符串" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Current Statement" Foreground="0x0000FFFF" Background="0x00303030" BoldFont="No"/>
+							<Item Name="Brace Matching (Rectangle)" Foreground="0x02000000" Background="0x00303030" BoldFont="No"/>
+							<Item Name="Excluded Code" Foreground="0x004F4F4F" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Number" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="数字" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="outlining.square" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Comment" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="注释" Foreground="0x00008000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="MarkerFormatDefinition/HighlightedReference" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script Keyword" Foreground="0x00C08000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Script String" Foreground="0x00007300" Background="0x02000000" BoldFont="No"/>
+							<Item Name="Preprocessor Keyword" Foreground="0x00FF00FF" Background="0x02000000" BoldFont="No"/>
+						</Items>
+					</Category>
+				</Categories>
+			</FontsAndColors>
+		</Category>
+	</Category>
+</UserSettings>
